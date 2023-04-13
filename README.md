@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=llulioscesar&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+#### Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llulioscesar&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=llulioscesar)](https://github.com/anuraghazra/github-readme-stats)
+#### WakaTime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@llulioscesar)](https://github.com/anuraghazra/github-readme-stats)
